@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6o0101/t/v1/juan/0
+seq: 0
+front:
+  text: 起信論海東疏刊行序釋於大乘起信論之疏振古凡有三品曰法藏曰慧遠曰元曉世謂之本論三師就中先二疏行于世年已尚矣是機緣方熟也今斯疏唯聞有其本更不閲之者歲亦深焉惟時宜未合也所謂僧傳清涼觀公於淮南法藏受海東起信疏義云個書高出于諸師上者以應知也我之論章中往往引用而未見其全釋所以慵研核其釋之始末因茲同門負帙者各不能無遺憾矣近來印氏某語余言或人呪這錦本乃許於刻梓而流行願垂考點其言至切余復想遇時根適至喜此疏入手而點頭肯受便捧讀訂校雖然天稟駑駘不獲罄力奚敢覃思俯祈達人幸為政諸元祿九龍飛丙子之秋日洛東智積門下覺眼謹志
+  hash: sha256:ce12c887ff359f5ea977a342ec106269d6df7bce407cd2f5e9a800b7ff1b5484
+  markers:
+  - {type: 序, offset: 0, content: 起信論海東疏刊行序, id: KR6o0101_T_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 起信論疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T44/T44n1844.xml
+    old_id: T44n1844
+hash: sha256:d74947e41612e4234f4bb3afdddf8ddcb8ff37139833c6cfc981495186184423
