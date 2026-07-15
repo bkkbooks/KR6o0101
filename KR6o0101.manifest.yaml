@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0101/v1
 canonical_location: https://kanripo.org/bkk/KR6o0101/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 起信論疏
   identifiers:
@@ -24,13 +24,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6o0101_000.yaml, hash: 'sha256:391a8064aa1470a4941b05cd94499b4edc0c91bf044a65d33d3da405205329eb'}
-  - {seq: 1, filename: KR6o0101_001.yaml, hash: 'sha256:62787972dba4b959db447bc8c1e57040033ba47b1b070e380a7cb70586135131'}
-  - {seq: 2, filename: KR6o0101_002.yaml, hash: 'sha256:053175ca1a211ea9266b5ffbc11e5f770e49f7272eb936fa348cd3637f4971b4'}
+  - {seq: 0, filename: KR6o0101_000.yaml, hash: 'sha256:d74947e41612e4234f4bb3afdddf8ddcb8ff37139833c6cfc981495186184423'}
+  - {seq: 1, filename: KR6o0101_001.yaml, hash: 'sha256:6495ef9d438e73eb18e7e74e1afa5d67f59906912e58dcb97079f049f4a7ab52'}
+  - {seq: 2, filename: KR6o0101_002.yaml, hash: 'sha256:d39ee8822dce2c33b46814fb581454fc80276ff43e20b3ac0cd28df0b4a23f43'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0101_000.markers.yaml, hash: 'sha256:69e5c9b910a79f37561acada3bf953703e8660da76146c60e7dae839c6d2f8ff'}
-  - {seq: 1, role: markers, filename: assets/KR6o0101_001.markers.yaml, hash: 'sha256:9c4b98e3272bffe453d2b4b8d6a4ede40b7e31c9357f02384cda4e354c93b839'}
-  - {seq: 2, role: markers, filename: assets/KR6o0101_002.markers.yaml, hash: 'sha256:cb2082a90f20d9e8350132114e88fd37e410ebacca4d666b6a71665ec498a6df'}
+  - {seq: 0, role: markers, filename: assets/KR6o0101_000.markers.yaml, hash: 'sha256:1b7ac019b41fb34f8041f4aa9819f071384a0f92c6efa1642fbb37a59150708b'}
+  - {seq: 1, role: markers, filename: assets/KR6o0101_001.markers.yaml, hash: 'sha256:8ec6520e5652f25230374aa7a06fce2b569204d24e469ebb776c939eaec19514'}
+  - {seq: 2, role: markers, filename: assets/KR6o0101_002.markers.yaml, hash: 'sha256:97ab2aa7efa0a807c060e2e3552df5380eab778c9fe8a1332e18bcc3c401b80e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -72,4 +72,7 @@ table_of_contents:
   label: 起信論疏卷下
   type: juan
   level: 1
-hash: sha256:0900de3bcc8e2872be2bf153cffc5437d04fcb101a6d361f6c97fa83f7d50bcc
+hash: sha256:16d065f742fbdd00bb04c88571f9953a6be87997e3489f6a3c5e8380cee7d266
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
