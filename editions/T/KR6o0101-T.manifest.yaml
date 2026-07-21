@@ -19,11 +19,11 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6o0101_000-T.yaml, hash: 'sha256:391a8064aa1470a4941b05cd94499b4edc0c91bf044a65d33d3da405205329eb'}
+  - {seq: 0, filename: KR6o0101_000-T.yaml, hash: 'sha256:9d69260ad97ea42407b9a45f7bb6a3a145f69d6a64987c65d35226f3b677860b'}
   - {seq: 1, filename: KR6o0101_001-T.yaml, hash: 'sha256:62787972dba4b959db447bc8c1e57040033ba47b1b070e380a7cb70586135131'}
   - {seq: 2, filename: KR6o0101_002-T.yaml, hash: 'sha256:053175ca1a211ea9266b5ffbc11e5f770e49f7272eb936fa348cd3637f4971b4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0101_000-T.markers.yaml, hash: 'sha256:62f6671b0ba38ca8677538654f77c4818541b725cf8bae84ed278f9c4a108a29'}
+  - {seq: 0, role: markers, filename: assets/KR6o0101_000-T.markers.yaml, hash: 'sha256:3ac508e618b8be457694ce86bff151a2360048e736cc53b4cf1158870d497ea4'}
   - {seq: 1, role: markers, filename: assets/KR6o0101_001-T.markers.yaml, hash: 'sha256:0bc106f76ebb5fa984f60d634666411d096908cf71583a4fb0256f50b0a93ae8'}
   - {seq: 2, role: markers, filename: assets/KR6o0101_002-T.markers.yaml, hash: 'sha256:1df00ded7e1714d364d1f27c219f4b488079447c589e9faf41e7a90e39ab0d00'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0101_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 起信論海東疏刊行序
@@ -67,4 +67,4 @@ table_of_contents:
   label: 起信論疏卷下
   type: juan
   level: 1
-hash: sha256:5b8096ce2f6ad2f77c04f67948ef77d1be39c8b0212ef9ab00d99f46560347b6
+hash: sha256:b2b8c309a7f2203eb6512207a2ab447f0dfbca73b709f99aae385f67e63222a4

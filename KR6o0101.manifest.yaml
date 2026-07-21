@@ -24,11 +24,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6o0101_000.yaml, hash: 'sha256:d74947e41612e4234f4bb3afdddf8ddcb8ff37139833c6cfc981495186184423'}
+  - {seq: 0, filename: KR6o0101_000.yaml, hash: 'sha256:4b3c3fd17249b7505dcc211ef66465f565def7c7df65f7cda906442bc02f4bb4'}
   - {seq: 1, filename: KR6o0101_001.yaml, hash: 'sha256:6495ef9d438e73eb18e7e74e1afa5d67f59906912e58dcb97079f049f4a7ab52'}
   - {seq: 2, filename: KR6o0101_002.yaml, hash: 'sha256:d39ee8822dce2c33b46814fb581454fc80276ff43e20b3ac0cd28df0b4a23f43'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6o0101_000.markers.yaml, hash: 'sha256:1b7ac019b41fb34f8041f4aa9819f071384a0f92c6efa1642fbb37a59150708b'}
+  - {seq: 0, role: markers, filename: assets/KR6o0101_000.markers.yaml, hash: 'sha256:bfd552f8ff9e47c4bffbfb911578271db6b727890da2a8c951a60df8ed0629f9'}
   - {seq: 1, role: markers, filename: assets/KR6o0101_001.markers.yaml, hash: 'sha256:8ec6520e5652f25230374aa7a06fce2b569204d24e469ebb776c939eaec19514'}
   - {seq: 2, role: markers, filename: assets/KR6o0101_002.markers.yaml, hash: 'sha256:97ab2aa7efa0a807c060e2e3552df5380eab778c9fe8a1332e18bcc3c401b80e'}
 table_of_contents:
@@ -36,7 +36,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6o0101_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 起信論海東疏刊行序
@@ -72,7 +72,7 @@ table_of_contents:
   label: 起信論疏卷下
   type: juan
   level: 1
-hash: sha256:16d065f742fbdd00bb04c88571f9953a6be87997e3489f6a3c5e8380cee7d266
+hash: sha256:f3d424ae144f7b4541b609e7e855e758f656f97bfd05d7aabaf0eddc2d2ac978
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
